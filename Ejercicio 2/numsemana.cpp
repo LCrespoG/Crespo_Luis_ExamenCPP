@@ -4,10 +4,12 @@ using namespace std;
 
 int numsemana()
 {
+    //creo variable dia y un cout (mostrar texto de acompañamiento) y cin para dar un valor a dia.
     int dia;
     cout << "Ingrese un número del 1 al 7: ";
     cin >> dia;
 
+    //categorizo el dia con un swich y rompo.
     switch(dia) {
     case 1: cout << "Lunes" << endl; break;
     case 2: cout << "Martes" << endl; break;

@@ -3,8 +3,9 @@
 #include <algorithm>
 using namespace std;
 
-int productospromocion()
+void productospromocion()
 {
+    //pido precios y los almaceno en array
     float precios[3];
     cout << "Ingrese el precio del primer artículo: ";
     cin >> precios[0];
