@@ -18,9 +18,13 @@ add_executable(Ejercicio2
 )
 add_executable(Ejercicio3
         "Ejercicio 3/main3.cpp"
+        "Ejercicio 3/medianotas.cpp"
+        "Ejercicio 3/medianotas.h"
 
 )
 add_executable(Ejercicio4
         "Ejercicio 4/main4.cpp"
+        "Ejercicio 4/calcularpromocion.cpp"
+        "Ejercicio 4/calcularpromocion.h"
 
 )

@@ -3,4 +3,4 @@
 
 int numsemana();
 
-#endif //NUMSEMANA_H
+#endif
