@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-   cout<< productospromocion();
+   cout<< productospromocion(); //llamo funcion productospromocion().
     return 0;
 }

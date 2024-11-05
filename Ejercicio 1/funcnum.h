@@ -1,6 +1,6 @@
 #ifndef FUNCNUM_H
 #define FUNCNUM_H
 
-int numselec();
+int numselec(); //declaro funcion
 
-#endif //FUNCNUM_H
+#endif

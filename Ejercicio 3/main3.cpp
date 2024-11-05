@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << calcularmedia();
+    cout << calcularmedia(); //llamo funcion calcularmedia().
     return 0;
 }

@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    cout<< numsemana ();
+    cout<< numsemana (); //llamo funcion numsemana()
     return 0;
 }
