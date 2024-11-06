@@ -4,7 +4,7 @@ Instrucciones de Entrega
 Repositorio en GitHub: https://github.com/LCrespoG/Parcial-1.git
 
 ## Organizacion
-La organizacion que utilizo trata de separar los ejercicios en directorios diferentes y cada uno con su propio main dentro; de esta forma, despues en Cmakelist puedo separarlos por ejecutables y conseguir una mejor organizacion para encontrar errores. Además, es una forma útil por si hay que añadir más .cpp y .h u otro contenido y conseguir mains más limpios.
+La organizacion que utilizo trata de separar los ejercicios en directorios diferentes y cada uno con su propio main dentro; de esta forma, despues en Cmakelist puedo separarlos por ejecutables y conseguir una mejor organizacion para encontrar errores. Además, es una forma útil por si hay que añadir más .cpp y .h u otro contenido y conseguir mains más limpios. Para ver el resultado de cada ejercicio hay que ejecutar el ejecutable que le corresponde.
 
 ## Descripción de Ejercicios
 
